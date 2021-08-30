@@ -10,7 +10,8 @@ namespace CSharp101Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("dddd");
+            Console.WriteLine("Yes");
+            Console.ReadKey();
         }
     }
 }
