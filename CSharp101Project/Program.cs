@@ -4,6 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/**
+ * 
+ * 
+ * https://satr.codes/
+ * C# 101 
+ * Waleed Alotaibi
+ * 
+ * 
+ * **/
 namespace CSharp101Project
 {
     class Program
